@@ -137,5 +137,5 @@ kubectl apply -f k8s.yaml
 ## Contact
 
 Created by [Shalev Bohadana](mailto:bohadanashalev@gmail.com).
-Have questions or feedback? Open an issue or email me directly.
+Have questions or feedback? email me directly.
 > *Crafted by Shalev Bohadana as a portfolio project demonstrating enterprise-grade DevOps practices.*
