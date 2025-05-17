@@ -1,6 +1,6 @@
 # terraform-buckets-eks-auto-mode
 
-![Terraform Version](https://img.shields.io/badge/Terraform-1.4.6-blue) ![License](https://img.shields.io/badge/License-MIT-green)
+![Terraform Version](https://img.shields.io/badge/Terraform-1.4.6-blue) 
 
 > A self-contained IaC example that goes from zero to a fully functional AWS environment—complete with secure S3 storage, resilient networking, a private EKS cluster in Auto Mode, and a sample app deployment.
 
@@ -138,3 +138,4 @@ kubectl apply -f k8s.yaml
 
 Created by [Shalev Bohadana](mailto:bohadanashalev@gmail.com).
 Have questions or feedback? Open an issue or email me directly.
+> *Crafted by Shalev Bohadana as a portfolio project demonstrating enterprise-grade DevOps practices.*
